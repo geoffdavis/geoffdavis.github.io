@@ -9,4 +9,6 @@ admin/toolsmith/whatever at Scripps Institution of Oceanography.
 
 I'm probably about as close to a full-stack engineer as you can get, from
 digging holes in the desert to install seismometers, to writing datalogger
-importing code, to running the backhaul data networks.
+interface code, to running the backhaul data networks.
+
+I'm one of the maintainers of the Antelope Contributed software repository.
