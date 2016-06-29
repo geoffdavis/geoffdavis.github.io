@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This is the personal blog for Geoff Davis. I'm a programmer/sysadmin/network
+admin/toolsmith/whatever at Scripps Institution of Oceanography.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I'm probably about as close to a full-stack engineer as you can get, from
+digging holes in the desert to install seismometers, to writing datalogger
+importing code, to running the backhaul data networks.
