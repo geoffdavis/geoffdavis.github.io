@@ -18,4 +18,4 @@ twitter_username: pottedpork
 github_username:  geoffdavis
 
 # Build settings
-markdown: rdiscount
+markdown: kramdown
